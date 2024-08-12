@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free software.
 nihao
-Git has a mutable index called stage.first 
+Git has a mutable index called stage.first second
